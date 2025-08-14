@@ -1,0 +1,57 @@
+PRESCRIPTION
+
+Patient Information:
+Name: Sarah Johnson
+Age: 34 years old
+Date: December 15, 2024
+Prescriber: Dr. Michael Chen, MD
+
+Diagnosis:
+- Acute bacterial sinusitis
+- Chronic hypertension
+- Type 2 diabetes mellitus
+
+Current Medications:
+1. Amoxicillin 500mg capsule
+   - Take 1 capsule three times daily
+   - Duration: 10 days
+   - Take with food to reduce stomach upset
+
+2. Lisinopril 10mg tablet
+   - Take 1 tablet once daily in the morning
+   - Duration: Ongoing
+   - Monitor blood pressure regularly
+
+3. Metformin 500mg tablet
+   - Take 1 tablet twice daily with meals
+   - Duration: Ongoing
+   - Check blood sugar levels as directed
+
+Medical History:
+- Hypertension diagnosed 2018
+- Type 2 diabetes diagnosed 2020
+- Seasonal allergies
+- Previous appendectomy (2015)
+
+Allergies:
+- Penicillin (severe rash)
+- Sulfa drugs (nausea and vomiting)
+
+Special Instructions:
+- Avoid alcohol while taking metformin
+- Monitor blood pressure daily
+- Check blood sugar levels before meals
+- Follow up in 2 weeks for blood work
+- Call immediately if experiencing severe side effects
+
+Drug Interactions to Monitor:
+- Lisinopril + NSAIDs may increase risk of kidney problems
+- Metformin + alcohol may cause lactic acidosis
+- Amoxicillin may reduce effectiveness of oral contraceptives
+
+Recommendations:
+- Maintain low-sodium diet for blood pressure control
+- Regular exercise program (30 minutes daily)
+- Weight management program
+- Annual eye exam for diabetes monitoring
+- Regular foot care due to diabetes
