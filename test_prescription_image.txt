@@ -1,0 +1,36 @@
+PRESCRIPTION IMAGE TEST
+
+This file simulates OCR text extraction from a prescription image.
+
+Patient Information:
+Name: Michael Rodriguez
+Age: 28 years old
+Date: December 20, 2024
+Prescriber: Dr. Emily Watson, MD
+
+Diagnosis:
+- Acute bronchitis
+- Seasonal allergies
+
+Current Medications:
+1. Azithromycin 250mg tablet
+   - Take 1 tablet daily for 5 days
+   - Take on empty stomach
+
+2. Cetirizine 10mg tablet
+   - Take 1 tablet once daily
+   - Duration: As needed for allergies
+
+Medical History:
+- No significant medical history
+- Previous seasonal allergies
+
+Allergies:
+- No known drug allergies
+
+Special Instructions:
+- Complete full course of antibiotics
+- Take allergy medication as needed
+- Follow up if symptoms persist
+
+This demonstrates how the OCR would extract text from a prescription image and how the system would process it.
